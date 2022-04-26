@@ -3,7 +3,7 @@
 
 
 
-**Aadi0706/Aadi0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Aadi0706/Aadi0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="https://github-readme-stats.vercel.app/api?username=Aadi0706">
+<img src="https://github-readme-stats.vercel.app/api?username=Aadi0706"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aadi0706&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
