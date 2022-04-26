@@ -1,4 +1,6 @@
-### Hi there I am Aditya Choubey👋
+<h1 align="center">Hi 👋, I'm Aditya Choubey</h1>
+<h1 align="center">I am learning Full Stack Web Development</h1>
+
 
 
 **Aadi0706/Aadi0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
