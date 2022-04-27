@@ -7,14 +7,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning React, Node.js, JavaScript, HTML, CSS
+
+- 🌱 I’m currently learning MERN 
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 💬 Ask me about HTML, CSS, JavaScript
+- 
+- 📫 How to reach me: adityachoubey07@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 - 
 <img src="https://github-readme-stats.vercel.app/api?username=Aadi0706"> 
 
