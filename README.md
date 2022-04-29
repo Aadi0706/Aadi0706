@@ -8,13 +8,16 @@ MERN Stack Web Developer
 I have been learning coding since October 2021. Masai has given me the training over MERN Stack web development where I learned HTML, CSS, JavaScript, Node.js, Express, React, Redux and also got the working of Github. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
 
 
+<img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
+
 * 🌍  I'm based in Sagar, Madhya Pradesh
 * ✉️  You can contact me at [adityachoubey07@gmail.com](mailto:adityachoubey07@gmail.com)
 * 🧠  I'm learning `MERN Stack`.
-* 🤔 I’m looking for help with `Competitive Programming`
+* 🤔  I’m looking for help with `Competitive Programming`
 * ⚡  I like interacting with new people and explore the world.
+* 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
 
-<img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=390px align="right" margin-bottom="100px" />
+
 <a href="https://www.twitter.com/Aditya070694" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Aditya070694?logo=twitter&style=for-the-badge&color=ef4444&labelColor=365314"
 /></a> <a href="https://www.github.com/Aadi0706" target="_blank" rel="noreferrer"><img
