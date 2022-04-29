@@ -36,7 +36,7 @@ I have been learning coding since October 2021. Masai has given me the training 
 * ✉️  You can contact me at [adityachoubey07@gmail.com](mailto:adityachoubey07@gmail.com)
 * 🧠  I'm learning React
 * ⚡  I like interacting with new people and explore the world.
-
+<img src="./">
 <a href="https://www.twitter.com/Aditya070694" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Aditya070694?logo=twitter&style=for-the-badge&color=ef4444&labelColor=365314"
 /></a><a href="https://www.github.com/Aadi0706" target="_blank" rel="noreferrer"><img
