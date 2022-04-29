@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 ### Connect with me:
 <p align="left">
  
-<a href="https://twitter.com/Aditya070694" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
+<a href="https://twitter.com/Aditya070694" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
  
 <a href="https://linkedin.com/in/aditya-choubey-" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-choubey-" height="30" width="40" /></a>
  
