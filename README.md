@@ -49,10 +49,25 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/aditya.choubey.921677" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Aadi0706" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-choubey-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/adityachoubey07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aditya070694" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<!-- <p align="left"> <a href="https://www.facebook.com/aditya.choubey.921677" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Aadi0706" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-choubey-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@adityachoubey07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aditya070694" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
 
 
-### ⚙️ &nbsp;GitHub Analytics
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ 
+<a href="https://twitter.com/Aditya070694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
+ 
+<a href="https://linkedin.com/in/aditya-choubey-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-choubey-" height="30" width="40" /></a>
+ 
+<a href="https://facebook.com/aditya.choubey.921677" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya.choubey.921677" height="30" width="40" /></a>
+ 
+<a href="https://medium.com/@adityachoubey07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityachoubey07" height="30" width="40" /></a>
+ 
+</p>
+
+
+### ⚙️ &nbsp;GitHub Stats
  <hr>
 <div display="flex">
 <!-- <a href="http://www.github.com/Aadi0706"> -->
@@ -63,14 +78,14 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 
 <a href="http://www.github.com/Aadi0706"><img src="https://activity-graph.herokuapp.com/graph?username=Aadi0706&bg_color=365314&color=ffffff&line=ef4444&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Aadi0706" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0706&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/Aadi0706" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0706&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
-### 🏆 GitHub Profile Trophy:
+<!-- ### 🏆 GitHub Profile Trophy:
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Aadi0706&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </a>
 </p>
 
-![](https://github.com/Aadi0706/prajaktahadole/blob/main/imgs/bottom_header.svg)
+![](https://github.com/Aadi0706/prajaktahadole/blob/main/imgs/bottom_header.svg) -->
 
