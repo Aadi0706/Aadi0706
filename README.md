@@ -16,7 +16,8 @@ I have been learning coding since October 2021. Masai has given me the training 
 * 🤔  I’m looking for help with `Competitive Programming`
 * ⚡  I like interacting with new people and explore the world.
 * 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
-
+<br/>
+<br/>
 
 <a href="https://www.twitter.com/Aditya070694" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Aditya070694?logo=twitter&style=for-the-badge&color=ef4444&labelColor=365314"
@@ -47,14 +48,8 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 </p>
 
 
-
-
-<!-- <p align="left"> <a href="https://www.facebook.com/aditya.choubey.921677" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Aadi0706" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aditya-choubey-" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@adityachoubey07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Aditya070694" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
-
-
-
 ### Connect with me:
-<p align="left">
+<div display="flex">
  
 <a href="https://twitter.com/Aditya070694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
  
@@ -64,7 +59,7 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
  
 <a href="https://medium.com/@adityachoubey07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityachoubey07" height="30" width="40" /></a>
  
-</p>
+</div>
 
 
 ### ⚙️ &nbsp;GitHub Stats
