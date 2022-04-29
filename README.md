@@ -55,7 +55,8 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 ### ⚙️ &nbsp;GitHub Analytics
  <hr>
 <div display="flex">
-<a href="http://www.github.com/Aadi0706"><img src="https://github-readme-stats.vercel.app/api?username=Aadi0706&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="Aadi0706's GitHub stats" /></a>
+<!-- <a href="http://www.github.com/Aadi0706"> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=Aadi0706&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="Aadi0706's GitHub stats" />
 
 <a href="http://www.github.com/Aadi0706"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi0706&stroke=ffffff&background=365314&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  </div>
