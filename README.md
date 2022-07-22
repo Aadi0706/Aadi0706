@@ -50,15 +50,15 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 
 
 ### Connect with me:
-<div>
+<div display="flex">
  
-<a display="inline" href="https://twitter.com/Aditya070694" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
+<a justify-content="space-between" href="https://twitter.com/Aditya070694" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
  
-<a href="https://linkedin.com/in/aditya-choubey-" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-choubey-" height="30" width="40" /></a>
+<a justify-content="space-between" href="https://linkedin.com/in/aditya-choubey-" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-choubey-" height="30" width="40" /></a>
  
-<a href="https://facebook.com/aditya.choubey.921677" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya.choubey.921677" height="30" width="40" /></a>
+<a justify-content="space-between" href="https://facebook.com/aditya.choubey.921677" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya.choubey.921677" height="30" width="40" /></a>
  
-<a href="https://medium.com/@adityachoubey07" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityachoubey07" height="30" width="40" /></a>
+<a justify-content="space-between" href="https://medium.com/@adityachoubey07" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityachoubey07" height="30" width="40" /></a>
  
 </div>
 
