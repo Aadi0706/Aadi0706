@@ -1,5 +1,5 @@
 
-Hi 👋 I am Aditya Choubey.
+Hi 👋 I am Aditya Choubey
 ===============================
 
 MERN Stack Web Developer
@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 
 ### ⚙️ &nbsp;GitHub Stats
  <hr>
-<div display="flex">
+<div display="inline">
 <!-- <a href="http://www.github.com/Aadi0706"> -->
  <img src="https://github-readme-stats.vercel.app/api?username=Aadi0706&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="Aadi0706's GitHub stats" />
 
