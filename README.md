@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 
 
 ### Connect with me:
-<p align="left" display="inline">
+<div display="inline">
  
 <a href="https://twitter.com/Aditya070694" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
  
@@ -60,7 +60,7 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
  
 <a href="https://medium.com/@adityachoubey07" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adityachoubey07" height="30" width="40" /></a>
  
-</p>
+</div>
 
 
 ### ⚙️ &nbsp;GitHub Stats
