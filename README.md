@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/Aadi0706?logo=github&style=for-the-
 
 
 ### Connect with me:
-<p align="left">
+<p align="left" display="inline">
  
 <a href="https://twitter.com/Aditya070694" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aditya070694" height="30" width="40" /></a>
  
