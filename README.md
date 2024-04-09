@@ -5,7 +5,7 @@ Hi 👋 I am Aditya Choubey
 MERN Stack Web Developer
 ------------------------
 
-I have been learning coding since October 2021. Masai has given me the training over MERN Stack web development where I learned HTML, CSS, JavaScript, Node.js, Express, React, Redux and also got the working of Github. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
+I am a MERN Stack Web Developer, with one year of experience in web development. I have worked on React.js in frontend and Node.js in Backend with express and mongoose library. In the core lies Javascript the heart of my programming knowledge. I am curious to learn new technologies which can develop the world to be sustainable one for the future.
 
 
 <img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
